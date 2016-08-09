@@ -1,5 +1,5 @@
 # The Galaxy Maps project
----
+
 
 This projects aims in collection all Galaxy servers across the earth. We stricly encourage all Galaxy Admins to add their server to this map, no matter if the server is public or not. We will use this map to guide users to you, make people and funding agencies aware of your awesome service, connect Admins between instances more closely and build a network of potential training instances.
 
