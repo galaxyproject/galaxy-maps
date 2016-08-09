@@ -8,7 +8,7 @@
         },
         "properties": {
           "name": "Freiburg Galaxy Server",
-          "URL": "http://galaxy.uni-freiburg.de"
+          "URL": "http://galaxy.uni-freiburg.de",
           "Training": "We offer twice a year a one week hands-on training course."
         }
       },
