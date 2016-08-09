@@ -71,6 +71,18 @@
             "URL": "https://bioinf-galaxian.erasmusmc.nl/galaxy",
             "description": "Galaxy server at Erasmus Medical Center in Rotterdam, The Netherlands. This server offers tools for NGS analysis, RNA-Seq and Metagenomics/Microbiomics"
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [30.610858, -96.349184]
+        },
+        "properties": {
+            "name": "CPT Galaxy Server",
+            "URL": "https://cpt.tamu.edu/galaxy-pub/",
+            "description": "Center for Phage Technology Server, offering tools for (Phage) NGS, Assembly, Analysis, and Annotation."
+        }
       }
   ]
 }
