@@ -76,7 +76,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [30.610858, -96.349184]
+            "coordinates": [-96.349184, 30.610858]
         },
         "properties": {
             "name": "CPT Galaxy Server",
