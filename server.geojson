@@ -23,7 +23,7 @@
           "URL": "http://deeptools.ie-freiburg.mpg.de",
           "description": "The Home of deepTools - test and play around with the latest deepTools version."
         }
-      }
+      },
       {
         "type": "Feature",
         "geometry": {
