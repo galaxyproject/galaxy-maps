@@ -93,7 +93,7 @@
         "properties": {
             "name": "oqtans Galaxy Server",
             "URL": "https://galaxy.cbio.mskcc.org",
-            "description": "Customized version of the Galaxy framework provided by R{\"a}tsch Laboratory, extended with machine learning based tools for sequencing data analysis and eukaryotic gene finding."
+            "description": "Customized version of the Galaxy framework provided by Rätsch Laboratory (ratschlab.org), extended with machine learning based tools for sequencing data analysis and eukaryotic gene finding."
         }
       }
   ]
