@@ -24,7 +24,17 @@
           "description": "The Home of deepTools - test and play around with the latest deepTools version."
         }
       }
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [52.62517, 13.50260]
+        },
+        "properties": {
+          "name": "MDC Galaxy Server",
+          "URL": "https://galaxy.mdc-berlin.net/",
+          "description": "We offer twice a year a hands-on training course."
+        }
+      }
   ]
 }
-
-
