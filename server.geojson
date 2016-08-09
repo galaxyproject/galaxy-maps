@@ -95,6 +95,18 @@
             "URL": "https://galaxy.cbio.mskcc.org",
             "description": "Customized version of the Galaxy framework provided by Rätsch Laboratory (ratschlab.org), extended with machine learning based tools for deep sequencing data analysis, eukaryotic gene finding, sequence analysis, and simple interface to Support Vector Machine toolbox."
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.35500, 48.87146]
+        },
+        "properties": {
+            "name": "Galaxy Server from the Galaxy Project",
+            "URL": "https://usegalaxy.org",
+            "description": "Main Galaxy Server from the Galaxy Project"
+        }
       }
   ]
 }
