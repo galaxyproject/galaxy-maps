@@ -100,7 +100,7 @@
         "type": "Feature",
         "geometry": {
             "type": "Point",
-            "coordinates": [2.35500, 48.87146]
+            "coordinates": [-77.86254610000003, 40.79971279999999]
         },
         "properties": {
             "name": "Galaxy Server from the Galaxy Project",
