@@ -24,6 +24,18 @@
           "description": "The Home of deepTools - test and play around with the latest deepTools version."
         }
       }
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [7.60413, 47.56782]
+        },
+        "properties": {
+          "name": "FMI Galaxy Server",
+          "URL": "not public",
+          "description": "Galaxy server at the Friedrich Miescher Institute for Biomedical Research - On top of the general Galaxy tools, we offer NGS and microarray analysis using custom made scripts for all wet lab researchers at the FMI."
+        }
+      }
   ]
 }
 
