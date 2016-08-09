@@ -28,7 +28,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [52.62517, 13.50260]
+          "coordinates": [13.50265, 52.62519]
         },
         "properties": {
           "name": "MDC Galaxy Server",
