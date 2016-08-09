@@ -83,6 +83,18 @@
             "URL": "https://cpt.tamu.edu/galaxy-pub/",
             "description": "Center for Phage Technology Server, offering tools for (Phage) NGS, Assembly, Analysis, and Annotation."
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-73.95653, 40.76497]
+        },
+        "properties": {
+            "name": "oqtans Galaxy Server",
+            "URL": "https://galaxy.cbio.mskcc.org",
+            "description": "Customized version of the Galaxy framework provided by R{\"a}tsch Laboratory, extended with machine learning based tools for sequencing data analysis and eukaryotic gene finding."
+        }
       }
   ]
 }
