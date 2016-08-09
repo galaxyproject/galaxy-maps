@@ -59,6 +59,18 @@
           "URL": "https://galaxy.mdc-berlin.net/",
           "description": "We offer twice a year a hands-on training course."
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [4.46602, 51.90997]
+        },
+        "properties": {
+            "name": "Erasmus MC Galaxy Server",
+            "URL": "https://bioinf-galaxian.erasmusmc.nl/galaxy",
+            "description": "Galaxy server at Erasmus Medical Center in Rotterdam, The Netherlands. This server offers tools for NGS analysis, RNA-Seq and Metagenomics/Microbiomics"
+        }
       }
   ]
 }
