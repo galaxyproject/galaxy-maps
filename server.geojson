@@ -1,10 +1,29 @@
-{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [7.84831, 48.00362]
-  },
-  "properties": {
-    "name": "Freiburg Galaxy Server"
-  }
+{ "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [7.84831, 48.00362]
+        },
+        "properties": {
+          "name": "Freiburg Galaxy Server",
+          "URL": "http://galaxy.uni-freiburg.de"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [7.85203, 48.02559]
+        },
+        "properties": {
+          "name": "MPI-IE Galaxy Server",
+          "URL": "http://deeptools.ie-freiburg.mpg.de",
+          "description": "The Home of deepTools - test and play around with the latest deepTools version."
+        }
+      }
+  ]
 }
+
+
