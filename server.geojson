@@ -151,6 +151,18 @@
             "URL": "https://galaxy-tut.genome.edu.au",
             "description": "Galaxy server for GVL tutorials."
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.71034, 51.01039]
+        },
+        "properties": {
+          "name": "Galaxy VIB Plant Systems Biology",
+          "URL": "not public",
+          "description": "Galaxy server for PSB researchers"
+        }
       }
   ]
 }
