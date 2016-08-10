@@ -163,6 +163,18 @@
           "URL": "not public",
           "description": "Galaxy server for PSB researchers"
         }
+      },
+	  {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [12.10769, 54.08633]
+        },
+        "properties": {
+          "name": "SBI Galaxy Server",
+          "URL": "not public",
+          "description": "Galaxy server at the Dept. of Systems Biology and Bioinformatics in Rostock, Germany. This server offers tools for NGS analyses, esp. RNA-Seq data analysis - TRAPLINE - and structural variation detection of DNA-Seq data"
+        }
       }
   ]
 }
