@@ -180,7 +180,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [42.36056, -71.09037]
+          "coordinates": [-71.09037, 42.36056]
         },
         "properties": {
           "name": "MIT Fraenkel Lab/NeuroLINCS Galaxy",
