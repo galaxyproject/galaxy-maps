@@ -164,7 +164,7 @@
           "description": "Galaxy server for PSB researchers"
         }
       },
-	  {
+      {
         "type": "Feature",
         "geometry": {
           "type": "Point",
@@ -174,6 +174,18 @@
           "name": "SBI Galaxy Server",
           "URL": "not public",
           "description": "Galaxy server at the Dept. of Systems Biology and Bioinformatics in Rostock, Germany. This server offers tools for NGS analyses, esp. RNA-Seq data analysis - TRAPLINE - and structural variation detection of DNA-Seq data"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [42.36056, -71.09037]
+        },
+        "properties": {
+          "name": "MIT Fraenkel Lab/NeuroLINCS Galaxy",
+          "URL": "not public",
+          "description": "The purpose of this Galaxy Instance is to help operate and document the experiments of the NeuroLINCS Consortium."
         }
       }
   ]
