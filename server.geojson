@@ -115,6 +115,42 @@
             "URL": "https://usegalaxy.org",
             "description": "Main Galaxy Server from the Galaxy Project"
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [144.964339, -37.800136]
+        },
+        "properties": {
+            "name": "Galaxy Melbourne",
+            "URL": "https://galaxy-mel.genome.edu.au",
+            "description": "Galaxy server for Melbourne Bio research precinct."
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [153.009820, -27.498074]
+        },
+        "properties": {
+            "name": "Galaxy Queenland",
+            "URL": "https://galaxy-qld.genome.edu.au",
+            "description": "Galaxy server for the Brisbane Bio research precinct."
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [151.2038966, -33.8673176]
+        },
+        "properties": {
+            "name": "Galaxy Tute",
+            "URL": "https://galaxy-tut.genome.edu.au",
+            "description": "Galaxy server for GVL tutorials."
+        }
       }
   ]
 }
