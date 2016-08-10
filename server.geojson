@@ -176,6 +176,18 @@
           "description": "Galaxy server at the Dept. of Systems Biology and Bioinformatics in Rostock, Germany. This server offers tools for NGS analyses, esp. RNA-Seq data analysis - TRAPLINE - and structural variation detection of DNA-Seq data"
         }
       }
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-74.65315, 40.34447]
+        },
+        "properties": {
+          "name": "Princeton University Genomics Galaxy Server",
+          "URL": "not public",
+          "description": "Galaxy server for Princeton University researchers"
+        }
+      }
   ]
 }
 
