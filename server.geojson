@@ -200,7 +200,17 @@
           "description": "Galaxy server for Princeton University researchers"
         }
       }
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [1.216799, 52.6217332]
+        },
+        "properties": {
+          "name": "Earlham Galaxy",
+          "URL": "not public",
+          "description": "Galaxy server for researchers of the Earlham Institute and the other Norwich Bioscience Institutes"
+        }
+      }
   ]
 }
-
-
