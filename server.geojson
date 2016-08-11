@@ -211,6 +211,18 @@
           "URL": "not public",
           "description": "Galaxy server for researchers of the Earlham Institute and the other Norwich Bioscience Institutes"
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-47.85784, -21.14818]
+        },
+        "properties": {
+          "name": "MI4U Galaxy Koala Server",
+          "URL": "http://169.57.143.50/",
+          "description": "Galaxy Koala server for researchers and clients of the MI4U startup"
+        }
       }
   ]
 }
