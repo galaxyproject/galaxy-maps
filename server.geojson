@@ -187,7 +187,7 @@
           "URL": "not public",
           "description": "The purpose of this Galaxy Instance is to help operate and document the experiments of the NeuroLINCS Consortium."
         }
-      }
+      },
       {
         "type": "Feature",
         "geometry": {
