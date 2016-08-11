@@ -223,6 +223,6 @@
           "URL": "not public",
           "description": "Galaxy server at the ETH Zurich Institute of Agricultural Sciences in the group of Animal Physiology - mostly NGS analysis tools."
         }
-      },
+      }
   ]
 }
