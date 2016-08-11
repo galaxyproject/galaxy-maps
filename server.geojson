@@ -228,12 +228,12 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [-46.7333438,15, -23.5680422]
+          "coordinates": [-46.7333438, -23.5680422]
         },
         "properties": {
           "name": "Galaxy CEFAP-USP",
           "URL": "http://cefap.icb.usp.br/galaxy/",
-          "description": "Galaxy CEFAP-USP is a server for researchers of the CEFAP-USP to perform NGS Data Analysis"
+          "description": "Galaxy-CEFAP@USP is a server to perform NGS Data Analysis available to everyone in the scientific community."
         }
       }
   ]
