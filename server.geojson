@@ -216,12 +216,48 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
+          "coordinates": [-47.85784, -21.14818]
+        },
+        "properties": {
+          "name": "MI4U Galaxy Koala Server",
+          "URL": "http://169.57.143.50/",
+          "description": "Galaxy Koala server for researchers and clients of the MI4U startup, focused in protein prediction and molecular docking"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
           "coordinates": [8.54986, 47.37777]
         },
         "properties": {
           "name": "Galaxy AP - Group",
           "URL": "not public",
           "description": "Galaxy server at the ETH Zurich Institute of Agricultural Sciences in the group of Animal Physiology - mostly NGS analysis tools."
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-46.7333438, -23.5680422]
+        },
+        "properties": {
+          "name": "Galaxy CEFAP-USP",
+          "URL": "http://cefap.icb.usp.br/galaxy/",
+          "description": "Galaxy-CEFAP@USP is a server to perform NGS Data Analysis available to everyone in the scientific community."
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [10.7169, 59.94345]
+        },
+        "properties": {
+          "name": "Lifeportal",
+          "URL": "https://lifeportal.uio.no",
+          "description": "Bioinformatics portal with more than 400 tools for NGS and Phylogeny."
         }
       }
   ]
