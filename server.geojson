@@ -228,6 +228,18 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
+          "coordinates": [8.54986, 47.37777]
+        },
+        "properties": {
+          "name": "Galaxy AP - Group",
+          "URL": "not public",
+          "description": "Galaxy server at the ETH Zurich Institute of Agricultural Sciences in the group of Animal Physiology - mostly NGS analysis tools."
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
           "coordinates": [-46.7333438, -23.5680422]
         },
         "properties": {
