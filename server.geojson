@@ -13,12 +13,7 @@
           "Training": "We offer twice a year a one week hands-on training course.",
           "marker-size": "medium",
           "marker-symbol": "college",
-          "marker-color": "",
-          "stroke": "#cbcea1",
-          "stroke-opacity": 1.0,
-          "stroke-width": 2,
-          "fill": "#cbcea1",
-          "fill-opacity": 0.5
+          "marker-color": "#cbcea1"
         }
       },
       {
@@ -70,12 +65,7 @@
           "Training": "We offer twice a year a hands-on training course.",
           "marker-size": "medium",
           "marker-symbol": "college",
-          "marker-color": "",
-          "stroke": "#cbcea1",
-          "stroke-opacity": 1.0,
-          "stroke-width": 2,
-          "fill": "#cbcea1",
-          "fill-opacity": 0.5
+          "marker-color": "#cbcea1"
         }
       },
       {
