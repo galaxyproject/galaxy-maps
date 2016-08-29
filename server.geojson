@@ -267,7 +267,53 @@
         "properties": {
           "Name": "Lifeportal",
           "URL": "https://lifeportal.uio.no",
-          "description": "Bioinformatics portal with more than 400 tools for NGS and Phylogeny."
+          "Description": "Bioinformatics portal with more than 400 tools for NGS and Phylogeny."
+        }
+      },
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [7.85203, 48.02559]
+        },
+        "properties": {
+          "Name": "Björn Grüning",
+          "Mail": "bjoern.gruening@gmail.com",
+          "Affiliation": "University of Freiburg",
+          "Website": "",
+          "Training": "",
+          "marker-size": "medium",
+          "marker-symbol": "toilet",
+          "marker-color": "",
+          "stroke": "#e5afcf",
+          "stroke-opacity": 1.0,
+          "stroke-width": 2,
+          "fill": "#e5afcf",
+          "fill-opacity": 0.5
+        }
+      },
+
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [7.84961, 47.99740]
+        },
+        "properties": {
+          "Name": "Bérénice Batut",
+          "Mail": "berenice.batut@gmail.com",
+          "Affiliation": "University of Freiburg",
+          "Website": "http://bebatut.fr/",
+          "Training": "",
+          "marker-size": "medium",
+          "marker-symbol": "toilet",
+          "marker-color": "",
+          "stroke": "#e5afcf",
+          "stroke-opacity": 1.0,
+          "stroke-width": 2,
+          "fill": "#e5afcf",
+          "fill-opacity": 0.5
         }
       }
   ]
