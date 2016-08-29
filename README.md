@@ -5,8 +5,9 @@ This projects aims in collection all Galaxy servers across the earth. We stricly
 
 [Look at it!](https://github.com/bgruening/galaxy-maps/blob/master/server.geojson)
 
+You want to be in this map, simply add an entry to the [geosjon](https://github.com/bgruening/galaxy-maps/blob/master/server.geojson) file, if you are:
 
-Simply add an entry like this to the [geosjon](https://github.com/bgruening/galaxy-maps/blob/master/server.geojson) file:
+- A Galaxy instance:
 
 ```json
       {
@@ -16,105 +17,54 @@ Simply add an entry like this to the [geosjon](https://github.com/bgruening/gala
           "coordinates": [7.85203, 48.02559]
         },
         "properties": {
-          "name": "MPI-IE Galaxy Server",
+          "Name": "MPI-IE Galaxy Server",
           "URL": "http://deeptools.ie-freiburg.mpg.de",
-          "description": "The Home of deepTools - test and play around with the latest deepTools version."
+          "Description": "The Home of deepTools - test and play around with the latest deepTools version."
         }
       }
 ```
 
-The Latitude and Longitude  for the `coordinates` section can be optained with this service for example: http://mondeca.com/index.php/en/any-place-en. Please note that the first number is Longitude and the second is Latitude.
+- A Galaxy instance with training
 
-Additional informations
------------------------
-
-You can add more properties to your entry. Here is an example with some comments:
-
-```cpp
+```json
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [7.84831, 48.00362]
+        },
         "properties": {
-            /* OPTIONAL: default "" 
-               A title to show when this item is clicked or
-               hovered over
-            */
-            "title": "A title",
-
-            /*
-                OPTIONAL: default ""
-                A description to show when this item is clicked or hovered over
-            */
-            "description": "A description",
-
-            /*  OPTIONAL: default "medium"
-                specify the size of the marker. sizes
-                can be different pixel sizes in different
-                implementations value must be one of
-                "small"
-                "medium"
-                "large"
-            */
-            "marker-size": "medium",
-
-            /*  OPTIONAL: default ""
-                a symbol to position in the center of this icon
-                if not provided or "", no symbol is overlaid
-                and only the marker is shown
-                Allowed values include
-                - Icon ID from the Maki project at http://mapbox.com/maki/
-                - An integer 0 through 9
-                - A lowercase character "a" through "z"
-            */
-            "marker-symbol": "bus",
-
-            /*  OPTIONAL: default "7e7e7e"
-                the marker's color
-            
-                value must follow COLOR RULES
-            */
-            "marker-color": "#fff",
-
-            /*  OPTIONAL: default "555555"
-                the color of a line as part of a polygon, polyline, or multigeometry
-
-                value must follow COLOR RULES
-            */
-            "stroke": "#555555",
-
-            /*  OPTIONAL: default 1.0
-                the opacity of the line component of a polygon, polyline, or multigeometry
-            
-                value must be a floating point number greater than or equal to
-                zero and less or equal to than one
-            */
-            "stroke-opacity": 1.0,
-
-            /*  OPTIONAL: default 2
-                the width of the line component of a polygon, polyline, or multigeometry
-            
-                value must be a floating point number greater than or equal to 0
-            */
-            "stroke-width": 2,
-
-            /*  OPTIONAL: default "555555"
-                the color of the interior of a polygon
-            
-                value must follow COLOR RULES
-            */
-            "fill": "#555555",
-
-            /*  OPTIONAL: default 0.6
-                the opacity of the interior of a polygon. Implementations
-                may choose to set this to 0 for line features.
-            
-                value must be a floating point number greater than or equal to
-                zero and less or equal to than one
-            */
-            "fill-opacity": 0.5,
-            /* Name of the Galaxy Server */
-            "name": "Freiburg Galaxy Server",
-            /* URL of the Galaxy Server */
-            "URL": "http://galaxy.uni-freiburg.de",
-            /* Some details about offered training, can be a URL as well. */
-            "Training": "We offer twice a year a one week hands-on training course."
+          "Name": "Freiburg Galaxy Server",
+          "URL": "http://galaxy.uni-freiburg.de",
+          "Description": "",
+          "Training": "We offer twice a year a one week hands-on training course.",
+          "marker-size": "medium",
+          "marker-symbol": "college",
+          "marker-color": "#bbbbbb"
+        }
       }
 ```
 
+- A possible trainer
+
+```json
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [7.83354, 48.01462]
+        },
+        "properties": {
+          "Name": "Björn Grüning",
+          "Mail": "bjoern.gruening@gmail.com",
+          "Affiliation": "University of Freiburg",
+          "Website": "",
+          "Training": "",
+          "marker-size": "medium",
+          "marker-symbol": "star",
+          "marker-color": "#e5afcf"
+        }
+      }
+```
+
+The Latitude and Longitude for the `coordinates` section can be obtained with this service for example: http://mondeca.com/index.php/en/any-place-en. Please note that the first number is Longitude and the second is Latitude.
