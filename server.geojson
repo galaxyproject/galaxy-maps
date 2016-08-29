@@ -274,7 +274,7 @@
           "Website": "",
           "Training": "",
           "marker-size": "medium",
-          "marker-symbol": "college",
+          "marker-symbol": "star",
           "marker-color": "#e5afcf"
         }
       },
@@ -292,7 +292,7 @@
           "Website": "http://bebatut.fr/",
           "Training": "",
           "marker-size": "medium",
-          "marker-symbol": "college",
+          "marker-symbol": "star",
           "marker-color": "#e5afcf"
         }
       }
