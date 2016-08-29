@@ -7,17 +7,18 @@
           "coordinates": [7.84831, 48.00362]
         },
         "properties": {
-            "marker-size": "medium",
-            "marker-symbol": "college",
-            "marker-color": "",
-            "stroke": "#555555",
-            "stroke-opacity": 1.0,
-            "stroke-width": 2,
-            "fill": "#555555",
-            "fill-opacity": 0.5,
-            "name": "Freiburg Galaxy Server",
-            "URL": "http://galaxy.uni-freiburg.de",
-            "Training": "We offer twice a year a one week hands-on training course."
+          "Name": "Freiburg Galaxy Server",
+          "URL": "http://galaxy.uni-freiburg.de",
+          "Description": "",
+          "Training": "We offer twice a year a one week hands-on training course.",
+          "marker-size": "medium",
+          "marker-symbol": "college",
+          "marker-color": "",
+          "stroke": "#555555",
+          "stroke-opacity": 1.0,
+          "stroke-width": 2,
+          "fill": "#555555",
+          "fill-opacity": 0.5
         }
       },
       {
@@ -27,9 +28,9 @@
           "coordinates": [7.85203, 48.02559]
         },
         "properties": {
-          "name": "MPI-IE Galaxy Server",
+          "Name": "MPI-IE Galaxy Server",
           "URL": "http://deeptools.ie-freiburg.mpg.de",
-          "description": "The Home of deepTools - test and play around with the latest deepTools version."
+          "Description": "The Home of deepTools - test and play around with the latest deepTools version."
         }
       },
       {
@@ -39,9 +40,9 @@
           "coordinates": [7.60413, 47.56782]
         },
         "properties": {
-          "name": "FMI Galaxy Server",
+          "Name": "FMI Galaxy Server",
           "URL": "not public",
-          "description": "Galaxy server at the Friedrich Miescher Institute for Biomedical Research - On top of the general Galaxy tools, we offer NGS and microarray analysis using custom made scripts for all wet lab researchers at the FMI."
+          "Description": "Galaxy server at the Friedrich Miescher Institute for Biomedical Research - On top of the general Galaxy tools, we offer NGS and microarray analysis using custom made scripts for all wet lab researchers at the FMI."
         }
       },
       {
@@ -51,9 +52,9 @@
             "coordinates": [-93.26501, 44.97775]
         },
         "properties": {
-            "name": "Galaxy-P Server",
+            "Name": "Galaxy-P Server",
             "URL": "https://usegalaxyp.org",
-            "description": "Galaxy-P: Multi-omics, Proteogenomics, Metaproteomics"
+            "Description": "Galaxy-P: Multi-omics, Proteogenomics, Metaproteomics"
         }
       },
       {
@@ -63,9 +64,18 @@
           "coordinates": [13.50265, 52.62519]
         },
         "properties": {
-          "name": "MDC Galaxy Server",
+          "Name": "MDC Galaxy Server",
           "URL": "https://galaxy.mdc-berlin.net/",
-          "description": "We offer twice a year a hands-on training course."
+          "Description": "",
+          "Training": "We offer twice a year a hands-on training course.",
+          "marker-size": "medium",
+          "marker-symbol": "college",
+          "marker-color": "",
+          "stroke": "#555555",
+          "stroke-opacity": 1.0,
+          "stroke-width": 2,
+          "fill": "#555555",
+          "fill-opacity": 0.5
         }
       },
       {
@@ -75,9 +85,9 @@
             "coordinates": [4.46602, 51.90997]
         },
         "properties": {
-            "name": "Erasmus MC Galaxy Server",
+            "Name": "Erasmus MC Galaxy Server",
             "URL": "https://bioinf-galaxian.erasmusmc.nl/galaxy",
-            "description": "Galaxy server at Erasmus Medical Center in Rotterdam, The Netherlands. This server offers tools for NGS analysis, RNA-Seq and Metagenomics/Microbiomics"
+            "Description": "Galaxy server at Erasmus Medical Center in Rotterdam, The Netherlands. This server offers tools for NGS analysis, RNA-Seq and Metagenomics/Microbiomics"
         }
       },
       {
@@ -87,9 +97,9 @@
             "coordinates": [-96.349184, 30.610858]
         },
         "properties": {
-            "name": "CPT Galaxy Server",
+            "Name": "CPT Galaxy Server",
             "URL": "https://cpt.tamu.edu/galaxy-pub/",
-            "description": "Center for Phage Technology Server, offering tools for (Phage) NGS, Assembly, Analysis, and Annotation."
+            "Description": "Center for Phage Technology Server, offering tools for (Phage) NGS, Assembly, Analysis, and Annotation."
         }
       },
       {
@@ -99,9 +109,9 @@
             "coordinates": [-73.95653, 40.76497]
         },
         "properties": {
-            "name": "oqtans Galaxy Server",
+            "Name": "oqtans Galaxy Server",
             "URL": "https://galaxy.cbio.mskcc.org",
-            "description": "Customized version of the Galaxy framework provided by Rätsch Laboratory (ratschlab.org), extended with machine learning based tools for deep sequencing data analysis, eukaryotic gene finding, sequence analysis, and simple interface to Support Vector Machine toolbox."
+            "Description": "Customized version of the Galaxy framework provided by Rätsch Laboratory (ratschlab.org), extended with machine learning based tools for deep sequencing data analysis, eukaryotic gene finding, sequence analysis, and simple interface to Support Vector Machine toolbox."
         }
       },
       {
@@ -111,9 +121,9 @@
             "coordinates": [-77.86254610000003, 40.79971279999999]
         },
         "properties": {
-            "name": "Galaxy Server from the Galaxy Project",
+            "Name": "Galaxy Server from the Galaxy Project",
             "URL": "https://usegalaxy.org",
-            "description": "Main Galaxy Server from the Galaxy Project"
+            "Description": "Main Galaxy Server from the Galaxy Project"
         }
       },
       {
@@ -123,9 +133,9 @@
             "coordinates": [144.964339, -37.800136]
         },
         "properties": {
-            "name": "Galaxy Melbourne",
+            "Name": "Galaxy Melbourne",
             "URL": "https://galaxy-mel.genome.edu.au",
-            "description": "Galaxy server for Melbourne Bio research precinct."
+            "Description": "Galaxy server for Melbourne Bio research precinct."
         }
       },
       {
@@ -135,9 +145,9 @@
             "coordinates": [153.009820, -27.498074]
         },
         "properties": {
-            "name": "Galaxy Queenland",
+            "Name": "Galaxy Queenland",
             "URL": "https://galaxy-qld.genome.edu.au",
-            "description": "Galaxy server for the Brisbane Bio research precinct."
+            "Description": "Galaxy server for the Brisbane Bio research precinct."
         }
       },
       {
@@ -147,9 +157,9 @@
             "coordinates": [151.2038966, -33.8673176]
         },
         "properties": {
-            "name": "Galaxy Tute",
+            "Name": "Galaxy Tute",
             "URL": "https://galaxy-tut.genome.edu.au",
-            "description": "Galaxy server for GVL tutorials."
+            "Description": "Galaxy server for GVL tutorials."
         }
       },
       {
@@ -159,9 +169,9 @@
           "coordinates": [3.71034, 51.01039]
         },
         "properties": {
-          "name": "Galaxy VIB Plant Systems Biology",
+          "Name": "Galaxy VIB Plant Systems Biology",
           "URL": "not public",
-          "description": "Galaxy server for PSB researchers"
+          "Description": "Galaxy server for PSB researchers"
         }
       },
       {
@@ -171,9 +181,9 @@
           "coordinates": [12.10769, 54.08633]
         },
         "properties": {
-          "name": "SBI Galaxy Server",
+          "Name": "SBI Galaxy Server",
           "URL": "not public",
-          "description": "Galaxy server at the Dept. of Systems Biology and Bioinformatics in Rostock, Germany. This server offers tools for NGS analyses, esp. RNA-Seq data analysis - TRAPLINE - and structural variation detection of DNA-Seq data"
+          "Description": "Galaxy server at the Dept. of Systems Biology and Bioinformatics in Rostock, Germany. This server offers tools for NGS analyses, esp. RNA-Seq data analysis - TRAPLINE - and structural variation detection of DNA-Seq data"
         }
       },
       {
@@ -183,9 +193,9 @@
           "coordinates": [-71.09037, 42.36056]
         },
         "properties": {
-          "name": "MIT Fraenkel Lab/NeuroLINCS Galaxy",
+          "Name": "MIT Fraenkel Lab/NeuroLINCS Galaxy",
           "URL": "not public",
-          "description": "The purpose of this Galaxy Instance is to help operate and document the experiments of the NeuroLINCS Consortium."
+          "Description": "The purpose of this Galaxy Instance is to help operate and document the experiments of the NeuroLINCS Consortium."
         }
       },
       {
@@ -195,9 +205,9 @@
           "coordinates": [-74.65315, 40.34447]
         },
         "properties": {
-          "name": "Princeton University Genomics Galaxy Server",
+          "Name": "Princeton University Genomics Galaxy Server",
           "URL": "not public",
-          "description": "Galaxy server for Princeton University researchers"
+          "Description": "Galaxy server for Princeton University researchers"
         }
       },
       {
@@ -207,9 +217,9 @@
           "coordinates": [1.216799, 52.6217332]
         },
         "properties": {
-          "name": "Earlham Galaxy",
+          "Name": "Earlham Galaxy",
           "URL": "not public",
-          "description": "Galaxy server for researchers of the Earlham Institute and the other Norwich Bioscience Institutes"
+          "Description": "Galaxy server for researchers of the Earlham Institute and the other Norwich Bioscience Institutes"
         }
       },
       {
@@ -219,9 +229,9 @@
           "coordinates": [-47.85784, -21.14818]
         },
         "properties": {
-          "name": "MI4U Galaxy Koala Server",
+          "Name": "MI4U Galaxy Koala Server",
           "URL": "http://169.57.143.50/",
-          "description": "Galaxy Koala server for researchers and clients of the MI4U startup, focused in protein prediction and molecular docking"
+          "Description": "Galaxy Koala server for researchers and clients of the MI4U startup, focused in protein prediction and molecular docking"
         }
       },
       {
@@ -231,9 +241,9 @@
           "coordinates": [8.54986, 47.37777]
         },
         "properties": {
-          "name": "Galaxy AP - Group",
+          "Name": "Galaxy AP - Group",
           "URL": "not public",
-          "description": "Galaxy server at the ETH Zurich Institute of Agricultural Sciences in the group of Animal Physiology - mostly NGS analysis tools."
+          "Description": "Galaxy server at the ETH Zurich Institute of Agricultural Sciences in the group of Animal Physiology - mostly NGS analysis tools."
         }
       },
       {
@@ -243,9 +253,9 @@
           "coordinates": [-46.7333438, -23.5680422]
         },
         "properties": {
-          "name": "Galaxy CEFAP-USP",
+          "Name": "Galaxy CEFAP-USP",
           "URL": "http://cefap.icb.usp.br/galaxy/",
-          "description": "Galaxy-CEFAP@USP is a server to perform NGS Data Analysis available to everyone in the scientific community."
+          "Description": "Galaxy-CEFAP@USP is a server to perform NGS Data Analysis available to everyone in the scientific community."
         }
       },
       {
@@ -255,7 +265,7 @@
           "coordinates": [10.7169, 59.94345]
         },
         "properties": {
-          "name": "Lifeportal",
+          "Name": "Lifeportal",
           "URL": "https://lifeportal.uio.no",
           "description": "Bioinformatics portal with more than 400 tools for NGS and Phylogeny."
         }
