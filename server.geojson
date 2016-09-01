@@ -32,7 +32,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [7.60413, 47.56782]
+          "coordinates": [7.60340, 47.56759]
         },
         "properties": {
           "Name": "FMI Galaxy Server",
@@ -290,6 +290,24 @@
           "Mail": "berenice.batut@gmail.com",
           "Affiliation": "University of Freiburg",
           "Website": "http://bebatut.fr/",
+          "Training": "",
+          "marker-size": "medium",
+          "marker-symbol": "star",
+          "marker-color": "#e5afcf"
+        }
+      },
+      
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [7.60390, 47.56759]
+        },
+        "properties": {
+          "Name": "Hans-Rudolf Hotz",
+          "Mail": "hrh@fmi.ch",
+          "Affiliation": "Friedrich Miescher Institute for Biomedical Research",
+          "Website": "",
           "Training": "",
           "marker-size": "medium",
           "marker-symbol": "star",
