@@ -59,6 +59,22 @@
       {
         "type": "Feature",
         "geometry": {
+          "type": "Point",
+          "coordinates": [-1.63883, 48.11553]
+        },
+        "properties": {
+          "Name": "BIPAA Galaxy Server",
+          "URL": "http://bipaa-galaxy.genouest.org",
+          "Description": "",
+          "Training": "A server dedicated to insect genomic, maintained by BIPAA (http://bipaa.genouest.org) and hosted by GenOuest (http://genouest.org)",
+          "marker-size": "medium",
+          "marker-symbol": "college",
+          "marker-color": "#bbbbbb"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
             "type": "Point",
             "coordinates": [-93.26501, 44.97775]
         },
