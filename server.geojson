@@ -44,7 +44,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [48.11553, -1.63883]
+          "coordinates": [-1.63883, 48.11553]
         },
         "properties": {
           "Name": "GenOuest Galaxy Server",
