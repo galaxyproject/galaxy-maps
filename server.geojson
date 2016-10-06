@@ -51,6 +51,9 @@
           "URL": "http://galaxy.genouest.org",
           "Description": "",
           "Training": "We offer several training course by year, mainly introductive ones.",
+          "marker-size": "medium",
+          "marker-symbol": "college",
+          "marker-color": "#bbbbbb"
         }
       },
       {
