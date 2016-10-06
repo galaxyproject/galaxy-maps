@@ -43,6 +43,22 @@
       {
         "type": "Feature",
         "geometry": {
+          "type": "Point",
+          "coordinates": [48.11553,	-1.63883]
+        },
+        "properties": {
+          "Name": "GenOuest Galaxy Server",
+          "URL": "http://galaxy.genouest.org",
+          "Description": "",
+          "Training": "We offer several training course by year, mainly introductive ones.",
+          "marker-size": "medium",
+          "marker-symbol": "college",
+          "marker-color": "#bbbbbb"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
             "type": "Point",
             "coordinates": [-93.26501, 44.97775]
         },
