@@ -292,7 +292,6 @@
           "Description": "Bioinformatics portal with more than 400 tools for NGS and Phylogeny."
         }
       },
-
       {
         "type": "Feature",
         "geometry": {
@@ -310,7 +309,6 @@
           "marker-color": "#e5afcf"
         }
       },
-
       {
         "type": "Feature",
         "geometry": {
@@ -328,7 +326,6 @@
           "marker-color": "#e5afcf"
         }
       },
-      
       {
         "type": "Feature",
         "geometry": {
@@ -345,8 +342,7 @@
           "marker-symbol": "star",
           "marker-color": "#e5afcf"
         }
-      }
-      
+      },
       {
         "type": "Feature",
         "geometry": {
@@ -364,8 +360,7 @@
           "marker-symbol": "star",
           "marker-color": "#e5afcf"
         }
-      }
-      
+      },
       {
         "type": "Feature",
         "geometry": {
@@ -383,5 +378,6 @@
           "marker-symbol": "star",
           "marker-color": "#e5afcf"
         }
+      }
   ]
 }
