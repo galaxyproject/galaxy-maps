@@ -365,7 +365,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [-77.859908, 40.798213]
+          "coordinates": [-77.859708, 40.798413]
         },
         "properties": {
           "Name": "Galaxy PlantTribes",
