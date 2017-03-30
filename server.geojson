@@ -292,7 +292,6 @@
           "Description": "Bioinformatics portal with more than 400 tools for NGS and Phylogeny."
         }
       },
-
       {
         "type": "Feature",
         "geometry": {
@@ -310,7 +309,6 @@
           "marker-color": "#e5afcf"
         }
       },
-
       {
         "type": "Feature",
         "geometry": {
@@ -328,7 +326,6 @@
           "marker-color": "#e5afcf"
         }
       },
-      
       {
         "type": "Feature",
         "geometry": {
@@ -340,6 +337,42 @@
           "Mail": "hrh@fmi.ch",
           "Affiliation": "Friedrich Miescher Institute for Biomedical Research",
           "Website": "",
+          "Training": "",
+          "marker-size": "medium",
+          "marker-symbol": "star",
+          "marker-color": "#e5afcf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-77.859908, 40.798213]
+        },
+        "properties": {
+          "Name": "Galaxy ChIP-exo",
+          "URL": "not public",
+          "Description": "Galaxy server for the Center for Eukaryotic Gene Regulation, providing tools for studying mechanisms of gene regulation through several different model organisms, including human tissue culture cells, fruit flies, and yeast, and teasing out the relationships between the numerous interacting factors responsible for gene regulation.",
+          "Affiliation": "The Pennsylvania State University",
+          "Website": "http://www.psu.edu/",
+          "Training": "",
+          "marker-size": "medium",
+          "marker-symbol": "star",
+          "marker-color": "#e5afcf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-77.859708, 40.798413]
+        },
+        "properties": {
+          "Name": "Galaxy PlantTribes",
+          "URL": "not public",
+          "Description": "Galaxy server for The Floral Genome Project, providing tools for studying evolutionary functional genomics in plants.",
+          "Affiliation": "The Pennsylvania State University",
+          "Website": "http://www.psu.edu/",
           "Training": "",
           "marker-size": "medium",
           "marker-symbol": "star",
