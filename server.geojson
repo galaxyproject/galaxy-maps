@@ -347,7 +347,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [40.798213, -77.859908]
+          "coordinates": [-77.859908, 40.798213]
         },
         "properties": {
           "Name": "Galaxy ChIP-exo",
@@ -365,7 +365,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [40.798213, -77.859908]
+          "coordinates": [-77.859908, 40.798213]
         },
         "properties": {
           "Name": "Galaxy PlantTribes",
