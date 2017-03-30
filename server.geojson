@@ -352,7 +352,7 @@
         "properties": {
           "Name": "Galaxy ChIP-exo",
           "URL": "not public",
-          "Description": "Galaxy server for the Center for Eukaryotic Gene Regulation, providing tools for studying mechanisms of gene regulation through several different model organisms, including human tissue culture cells, fruit flies, and yeast, and teasing out the relationships between the numerous interacting factors responsible for gene regulation."
+          "Description": "Galaxy server for the Center for Eukaryotic Gene Regulation, providing tools for studying mechanisms of gene regulation through several different model organisms, including human tissue culture cells, fruit flies, and yeast, and teasing out the relationships between the numerous interacting factors responsible for gene regulation.",
           "Affiliation": "The Pennsylvania State University",
           "Website": "http://www.psu.edu/",
           "Training": "",
@@ -370,7 +370,7 @@
         "properties": {
           "Name": "Galaxy PlantTribes",
           "URL": "not public",
-          "Description": "Galaxy server for The Floral Genome Project, providing tools for studying evolutionary functional genomics in plants."
+          "Description": "Galaxy server for The Floral Genome Project, providing tools for studying evolutionary functional genomics in plants.",
           "Affiliation": "The Pennsylvania State University",
           "Website": "http://www.psu.edu/",
           "Training": "",
