@@ -378,6 +378,24 @@
           "marker-symbol": "star",
           "marker-color": "#e5afcf"
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [51.3521, 12.4301 ]
+        },
+        "properties": {
+          "Name": "Matthias Bernt",
+          "Mail": "m.bernt@ufz.de",
+          "Affiliation": "Helmholtz Centre for Environmental Research",
+          "URL": "not public",
+          "Website": "www.ufz.de",
+          "Training": "Yearly Transcriptomics and Metagenomics/Amplicon for employees and partnering institutions",
+          "marker-size": "medium",
+          "marker-symbol": "star",
+          "marker-color": "#e5afcf"
+        }
       }
   ]
 }
