@@ -383,7 +383,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [51.3521, 12.4301 ]
+          "coordinates": [12.4301, 51.3521]
         },
         "properties": {
           "Name": "Matthias Bernt",
