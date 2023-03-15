@@ -378,6 +378,37 @@
           "marker-symbol": "star",
           "marker-color": "#e5afcf"
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [6.5623, 46.5183]
+        },
+        "properties": {
+          "Name": "Duboule lab Galaxy Server",
+          "URL": "not public",
+          "Description": "Galaxy server for researchers of Duboule lab, EPFL (will be down February 2025 :().",
+          "Affiliation": "UPDUB - ISREC - EPFL",
+          "Website": "https://www.epfl.ch/labs/duboule-lab/"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [6.5623, 46.5204]
+        },
+        "properties": {
+          "Name": "Lucille Delisle",
+          "Mail": "lucille.delisle@epfl.ch",
+          "Affiliation": "UPDUB - ISREC - EPFL",
+          "Website": "",
+          "Training": "",
+          "marker-size": "medium",
+          "marker-symbol": "star",
+          "marker-color": "#e5afcf"
+        }
       }
   ]
 }
