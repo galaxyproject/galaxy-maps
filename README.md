@@ -45,7 +45,7 @@ You want to be in this map, simply add an entry to the [geosjon](https://github.
       }
 ```
 
-- A possible trainer
+- A possible trainer (do not use the exact same coordinates as the Galaxy instance)
 
 ```json
       {
