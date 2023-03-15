@@ -383,7 +383,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [6.5860, 46.5210]
+          "coordinates": [6.5623, 46.5183]
         },
         "properties": {
           "Name": "Duboule lab Galaxy Server",
@@ -397,7 +397,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [6.5860, 46.5210]
+          "coordinates": [6.5623, 46.5204]
         },
         "properties": {
           "Name": "Lucille Delisle",
