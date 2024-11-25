@@ -32,7 +32,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [7.60340, 47.56759]
+          "coordinates": [7.578399, 47.575629]
         },
         "properties": {
           "Name": "FMI Galaxy Server",
@@ -330,7 +330,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [7.60390, 47.56759]
+          "coordinates": [7.578796, 47.575694]
         },
         "properties": {
           "Name": "Hans-Rudolf Hotz",
