@@ -67,4 +67,4 @@ You want to be in this map, simply add an entry to the [geosjon](https://github.
       }
 ```
 
-The Latitude and Longitude for the `coordinates` section can be obtained with this service for example: http://mondeca.com/index.php/en/any-place-en. Please note that the first number is Longitude and the second is Latitude.
+The Latitude and Longitude for the `coordinates` section can be obtained with this service for example: https://www.itilog.com/ or https://www.latlong.net/. Please note that the first number is Longitude and the second is Latitude.
