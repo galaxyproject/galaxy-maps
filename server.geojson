@@ -188,18 +188,6 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [3.71034, 51.01039]
-        },
-        "properties": {
-          "Name": "Galaxy VIB Plant Systems Biology",
-          "URL": "not public",
-          "Description": "Galaxy server for PSB researchers"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
           "coordinates": [12.10769, 54.08633]
         },
         "properties": {
