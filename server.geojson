@@ -396,6 +396,18 @@
           "marker-symbol": "star",
           "marker-color": "#e5afcf"
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [3.7100899, 51.0114521]
+        },
+        "properties": {
+          "Name": "Belgian Galaxy server",
+          "URL": "https://usegalaxy.be/",
+          "Description": "The Belgian public Galaxy instance from VIB Data Core and ELIXIR Belgium."
+        }
       }
   ]
 }
