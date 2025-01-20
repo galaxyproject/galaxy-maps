@@ -401,7 +401,7 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [45.192915, 5.761063]
+          "coordinates": [5.761063, 45.192915]
         },
         "properties": {
           "Name": "OSUG (UGA / France) Galaxy instance",
