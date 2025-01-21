@@ -404,10 +404,10 @@
           "coordinates": [5.761063, 45.192915]
         },
         "properties": {
-          "Name": "OSUG (UGA / France) Galaxy instance",
+          "Name": "OSUG Galaxy instance",
           "Mail": "vlad.visan@univ-grenoble-alpes.fr",
-          "Affiliation": "Observatoire des Sciences de l'Univers de Grenoble - Université Grenoble-Alpes",
-          "Description": "Multidisciplinary universe science instance in Grenoble (France). Currently being tested on several workflows (geology, astronomy, hydrology). Expecting tens of users long-term.",
+          "Affiliation": "Observatoire des Sciences de l'Univers de Grenoble - Université Grenoble Alpes",
+          "Description": "Observatories of Earth Sciences and Astronomy of Grenoble (France). The current prototype is being tested on several remote sensing applications (earth science, astronomy, hydrology).",
           "URL": "not public",
           "Website": "https://www.osug.fr/"
         }
