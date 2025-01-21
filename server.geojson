@@ -396,6 +396,21 @@
           "URL": "https://usegalaxy.be/",
           "Description": "The Belgian public Galaxy instance from VIB Data Core and ELIXIR Belgium."
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [5.761063, 45.192915]
+        },
+        "properties": {
+          "Name": "OSUG Galaxy instance",
+          "Mail": "vlad.visan@univ-grenoble-alpes.fr",
+          "Affiliation": "Observatoire des Sciences de l'Univers de Grenoble - Université Grenoble Alpes",
+          "Description": "Observatories of Earth Sciences and Astronomy of Grenoble (France). The current prototype is being tested on several remote sensing applications (earth science, astronomy, hydrology).",
+          "URL": "not public",
+          "Website": "https://www.osug.fr/"
+        }
       }
   ]
 }
