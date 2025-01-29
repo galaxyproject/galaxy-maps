@@ -411,6 +411,21 @@
           "URL": "not public",
           "Website": "https://www.osug.fr/"
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [4.3829271,50.824543]
+        },
+        "properties": {
+          "Name": "Sciensano Galaxy instance",
+          "Mail": "bioit@sciensano.be",
+          "Affiliation": "Sciensano - Belgian Institute of Public Health",
+          "Description": "Public Galaxy server for microbiological genomics applications with a focus on public health. ",
+          "URL": "https://galaxy.sciensano.be/",
+          "Website": "https://www.sciensano.be/"
+        }
       }
   ]
 }
