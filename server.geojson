@@ -426,6 +426,18 @@
           "URL": "https://galaxy.sciensano.be/",
           "Website": "https://www.sciensano.be/"
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [11.1430, 51.7726]
+        },
+      "properties": {
+        "Name": "JKI Galaxy Server",
+        "URL": "not public",
+        "Description": "Galaxy server at the Julius Kühn-Institute - the German Federal Research Centre for Cultivated Plants. The server offers tools mainly on NGS analyses, also GWAS analysis with custom made scripts for researchers at the JKI."
+        }
       }
   ]
 }
