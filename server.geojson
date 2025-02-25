@@ -438,6 +438,35 @@
         "URL": "not public",
         "Description": "Galaxy server at the Julius Kühn-Institute - the German Federal Research Centre for Cultivated Plants. The server offers tools mainly on NGS analyses, also GWAS analysis with custom made scripts for researchers at the JKI."
         }
-      }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [11.3426327, 44.4938203]
+        },
+        "properties": {
+          "Name": "BOSCO private Galaxy instance",
+          "URL": "https://bosco-aosp.github.io/computational-genomics-platform/",
+          "Description": "Bologna Sant’Orsola Computational Genomics (BOSCO) is a team it the IRCCS Azienda Ospedaliero-Universitaria di Bologna hospital. This Galaxy instance hosts tools that were developed in-house. The instance cannot be accessed from outside the hospital."
+        }
+      },
+       {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [11.270165573363244, 44.47508227647489]
+        },
+        "properties": {
+          "Name": "Giuseppe Profiti",
+          "Mail": "gioseppe@biodec.com",
+          "Affiliation": "BioDec S.r.l.",
+          "Website": "https://biodec.com",
+          "Training": "",
+          "marker-size": "medium",
+          "marker-symbol": "star",
+          "marker-color": "#e5afcf"
+        }
+     }
   ]
 }
